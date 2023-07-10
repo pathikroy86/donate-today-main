@@ -40,3 +40,37 @@ body {
     font-weight: bold;
     border-radius: 5px;
 }
+
+.donate-amount-container {
+    width: 765px;
+    margin: 0 auto;
+}
+
+.donate-text {
+    width: 691px;
+    text-align: center;
+}
+
+.donate-text h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.donate-text p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    color: #707070;
+}
+
+.donate-amount-selection {
+    display: flex;
+    gap: 5px;
+}
+
+.box-white {
+    width: 135px;
+    height: 123px;
+    background-color: #fafafa;
+    border-radius: 5px;
+}
